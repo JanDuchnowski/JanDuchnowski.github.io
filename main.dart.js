@@ -52170,7 +52170,7 @@ A.Hm.prototype={
 k(a){return this.b},
 $icF:1}
 A.un.prototype={
-gpl(){return"assets/assets/images/laptop1.jpeg"},
+gpl(){return"assets/images/laptop1.jpeg"},
 yl(a){var s,r={},q=a.a
 if(q==null)q=$.TJ()
 r.a=r.b=null
